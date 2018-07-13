@@ -1,4 +1,2 @@
-class Owner
-  # code goes here
-
- end
+# class Owner
+#   # code goes here
